@@ -12,4 +12,4 @@
 -->
 
 
-![420](https://github.com/armada-alliance/assets/blob/gh-pages/ship.webp?raw=true)
+![420](https://github.com/armada-alliance/assets/blob/gh-pages/AACoin_Vid.webp?raw=true)
