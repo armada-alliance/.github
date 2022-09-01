@@ -12,7 +12,8 @@
 -->
 
 
-<!-- ![420](https://github.com/armada-alliance/assets/blob/gh-pages/AACoin_Vid.webp?raw=true)
- -->
+![420](https://github.com/armada-alliance/assets/blob/gh-pages/banner-armada%20copy.png?raw=true)
+
  
- <img src="https://github.com/armada-alliance/assets/blob/gh-pages/ship.webp?raw=true" alt="coin" width="360" height="365"/>
+ <!-- <img src="https://github.com/armada-alliance/assets/blob/gh-pages/banner-armada%20copy.png?raw=true" alt="coin" width="360" height="365"/>
+ -->
