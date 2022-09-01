@@ -1,5 +1,3 @@
-## Welcome to the Armada Alliance 🏴‍☠️🦾
-
 <!--
 
 **Here are some ideas to get you started:**
@@ -17,3 +15,5 @@
  
  <!-- <img src="https://github.com/armada-alliance/assets/blob/gh-pages/banner-armada%20copy.png?raw=true" alt="coin" width="360" height="365"/>
  -->
+
+## Welcome to the Armada Alliance 🏴‍☠️🦾
